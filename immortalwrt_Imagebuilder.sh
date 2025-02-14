@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# 结合 https://firmware-selector.immortalwrt.org/ 使用，选择好设备后在复制页面上的型号、平台、版本
 # 设置默认版本号
 VERSION="24.10.0"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
